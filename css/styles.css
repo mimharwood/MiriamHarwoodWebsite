@@ -1,0 +1,12 @@
+body{
+	background-color: #F5F0EB;
+	padding: 0px;
+	margin: 0px
+}
+
+.wrap{
+	background: white;
+	height: 100vh;
+	margin: 0 auto;
+	width: 960px;
+}
