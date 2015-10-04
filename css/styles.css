@@ -1,7 +1,8 @@
 body{
 	background-color: #F5F0EB;
 	padding: 0px;
-	margin: 0px
+	margin: 0px;
+	font-family: 'Rokkitt', serif;
 }
 
 .wrap{
@@ -15,8 +16,35 @@ body{
 }
 
 #banner2{
-	height:80px;
+	height:55px;
 	background-color: white;
 	width:100%;
 	font-size: 50pt;
+	text-indent: 10px;
+
+}
+
+nav{}
+
+nav ul{
+	list-style: none;
+	padding-left: 0px;
+	border-top: solid 2px black;
+	border-bottom: solid 3px black;
+	height: 30px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 20pt;
+}
+
+nav ul li{
+	width: 17%;
+	float: left;
+	height: 100%;
+	text-indent: 10px;
+}
+
+nav ul li:hover{
+	color: orange;
+	cursor: pointer;
 }
