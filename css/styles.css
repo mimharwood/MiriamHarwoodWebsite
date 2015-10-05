@@ -59,6 +59,7 @@ nav ul li:hover{
 }
 
 footer {
+	clear: both;
 	text-align: center;
 	font-size: 8pt;
 }
@@ -71,5 +72,28 @@ footer {
 }
 
 p {
-	padding: 10px
+	padding: 3px
+}
+
+.aboutme {
+	clear: both;	
+    width: 1020px;
+   	margin-left:0 auto;
+   	margin-right: 0 auto;
+   	height: 700px;
+   	padding:10px;
+}
+
+.column1 {
+   	  float: left;
+   	  width: 48%;
+   	  height: 100%;
+   	  margin: 1px;
+}
+
+.column2 {
+   	  float: left;
+   	  width: 48%;
+   	  height: 100%;
+   	  margin: 1px;
 }
