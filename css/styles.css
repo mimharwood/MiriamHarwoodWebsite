@@ -97,3 +97,11 @@ p {
    	  height: 100%;
    	  margin: 1px;
 }
+
+.photo {
+      clear: both;
+      width: 330px;
+      margin: 0 auto;
+
+}
+
