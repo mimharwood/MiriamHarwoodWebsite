@@ -3,6 +3,7 @@ body{
 	padding: 0px;
 	margin: 0px;
 	font-family: 'Rokkitt', serif;
+
 }
 
 .wrap{
@@ -58,11 +59,6 @@ nav ul li:hover{
 	margin: 0 auto;	
 }
 
-footer {
-	clear: both;
-	text-align: center;
-	font-size: 8pt;
-}
 
 .samples-box {
 	float: left;
@@ -104,4 +100,15 @@ p {
       margin: 0 auto;
 
 }
+
+.contact {
+	clear: both;	
+    width: 1020px;
+   	margin-left:0 auto;
+   	margin-right: 0 auto;
+   	height: 700px;
+   	padding:10px;
+   	position: relative;
+}
+
 
