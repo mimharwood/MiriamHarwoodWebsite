@@ -47,6 +47,13 @@ nav ul li{
 
 nav ul li:hover{
 	color: orange;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+nav ul li:visited{
+	color: orange;
+	text-decoration: none;
 	cursor: pointer;
 }
 .mainArea {
