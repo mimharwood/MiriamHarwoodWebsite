@@ -123,4 +123,8 @@ p {
    	position: relative;
 }
 
+.contact a{
+	color: orange;
+	text-decoration: none;
+}
 
