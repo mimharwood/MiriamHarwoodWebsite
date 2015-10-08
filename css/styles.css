@@ -74,9 +74,10 @@ nav ul li a:hover{
 
 .samples-box {
 	float: left;
-    width: 49.7%;
-    height: 275px;
-    border: 1px solid black;  
+    width: 49%;
+    min-height: 275px;
+    border: 1px solid black;
+    padding: 1px;
 }
 
 p {
